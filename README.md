@@ -1,4 +1,4 @@
 # squash-commits-demo
 Demo code for squash commits in open PR
 
-Iniial change in README.md
+Initial change in README.md
